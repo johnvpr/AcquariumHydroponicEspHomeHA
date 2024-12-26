@@ -12,3 +12,8 @@ https://www.youtube.com/watch?v=SrGKJrS0PVs&t=6s
 
 Here is his repositoty:
 https://www.dropbox.com/scl/fo/agl9kio252aqr8prjwf6t/AM45ZYMfkyawK2NO6sfNuxc?rlkey=jzsxnp3ufha78bsm9i3j65bkv&e=1&dl=0
+
+
+
+
+Understanding & utilizing safe electrical practices is critical to your safety and safely completing this project.
