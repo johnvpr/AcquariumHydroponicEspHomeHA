@@ -27,4 +27,19 @@ https://community.home-assistant.io/t/ph-sensor-not-working-properly-voltage-jus
 <img width="1324" alt="image" src="https://github.com/user-attachments/assets/7ba2557f-dd13-4743-b8d9-84c567029f2e" />
 
 
+
+
+https://how2electronics.com/aquarium-water-quality-monitor-with-tds-sensor-esp32/
+<img width="729" alt="image" src="https://github.com/user-attachments/assets/8c90b0ed-60bc-4043-8b9c-81a04db8dbb3" />
+
+
+
+
+
+
+
+
+
+
+
 Understanding & utilizing safe electrical practices is critical to your safety and safely completing this project.
