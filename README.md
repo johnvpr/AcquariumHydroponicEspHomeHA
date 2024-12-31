@@ -46,6 +46,10 @@ https://how2electronics.com/aquarium-water-quality-monitor-with-tds-sensor-esp32
 
 
 
+https://how2electronics.com/aquarium-water-quality-monitor-with-tds-sensor-esp32/
+<img width="745" alt="image" src="https://github.com/user-attachments/assets/924434dc-85e7-4f7c-a276-76b2b96d4dfa" />
+
+
 
 
 
