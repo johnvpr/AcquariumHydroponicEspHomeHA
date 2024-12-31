@@ -3,6 +3,17 @@ Open source Modular ESP Home Assistant Sensor Board for Hydroponic, Gardening, A
 
 <img width="1557" alt="image" src="https://github.com/user-attachments/assets/50b27e87-778c-4463-8ffd-ebc949760a43" />
 
+Understanding & utilizing safe electrical practices is critical to your safety and safely completing this project.
+
+
+
+
+
+
+
+
+
+
 
 
 Additional Resources:
@@ -42,4 +53,4 @@ https://how2electronics.com/aquarium-water-quality-monitor-with-tds-sensor-esp32
 
 
 
-Understanding & utilizing safe electrical practices is critical to your safety and safely completing this project.
+
