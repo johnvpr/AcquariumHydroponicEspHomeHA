@@ -13,6 +13,11 @@ https://www.youtube.com/watch?v=SrGKJrS0PVs&t=6s
 Here is his repositoty:
 https://www.dropbox.com/scl/fo/agl9kio252aqr8prjwf6t/AM45ZYMfkyawK2NO6sfNuxc?rlkey=jzsxnp3ufha78bsm9i3j65bkv&e=1&dl=0
 
+ph-4502c and ADS1115
+https://community.home-assistant.io/t/ph-sensor-not-working-properly-voltage-just-stable/414666
+
+<img width="1595" alt="image" src="https://github.com/user-attachments/assets/71499143-1d1f-4d60-bacc-5c4506da91f8" />
+
 
 
 
