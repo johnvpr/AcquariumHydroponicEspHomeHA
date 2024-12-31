@@ -2,7 +2,6 @@
 Open source Modular ESP Home Assistant Sensor Board for Hydroponic, Gardening, Acquarium, Fridge, Freezer, IOT, etc
 
 The idea is of creating a multi sensor ESP board for HOME ASSISTANT / ESPhome similar to this one created by Led Gardner.
- <img width="1265" alt="image" src="https://github.com/user-attachments/assets/8c0b1bf0-fa55-4e5d-8d0b-218bf767cad5" />
 
 <img width="1209" alt="image" src="https://github.com/user-attachments/assets/993f7b0a-a83b-453c-8055-19551fa97bf5" />
 
@@ -19,6 +18,7 @@ https://community.home-assistant.io/t/ph-sensor-not-working-properly-voltage-jus
 <img width="1595" alt="image" src="https://github.com/user-attachments/assets/71499143-1d1f-4d60-bacc-5c4506da91f8" />
 
 
+<img width="1324" alt="image" src="https://github.com/user-attachments/assets/7ba2557f-dd13-4743-b8d9-84c567029f2e" />
 
 
 Understanding & utilizing safe electrical practices is critical to your safety and safely completing this project.
