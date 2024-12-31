@@ -1,8 +1,14 @@
-
+<img width="785" alt="image" src="https://github.com/user-attachments/assets/2c9278e3-ff56-4235-b6ed-94499cbfac25" />
 Open source Modular ESP Home Assistant Sensor Board for Hydroponic, Gardening, Acquarium, etc
 
 
 <img width="785" alt="image" src="https://github.com/user-attachments/assets/139817a5-decf-49fb-8048-1ab0a36c986f" />
+
+Shopping List:
+Esp32 S3
+PH Sensor ph-4502c
+TDS Sensor Water Conductivity 
+SSD1306 OLED Displau
 
 
 Understanding & utilizing safe electrical practices is critical to your safety and safely completing this project.
