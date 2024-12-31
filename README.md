@@ -1,7 +1,13 @@
 # OpenESPModularSensorsHA
 Open source Modular ESP Home Assistant Sensor Board for Hydroponic, Gardening, Acquarium, Fridge, Freezer, IOT, etc
 
-The idea is of creating a multi sensor ESP board for HOME ASSISTANT / ESPhome similar to this one created by Led Gardner.
+<img width="1557" alt="image" src="https://github.com/user-attachments/assets/50b27e87-778c-4463-8ffd-ebc949760a43" />
+
+
+
+Additional Resources:
+
+Similar project by Led Gardner.
 
 <img width="1209" alt="image" src="https://github.com/user-attachments/assets/993f7b0a-a83b-453c-8055-19551fa97bf5" />
 
