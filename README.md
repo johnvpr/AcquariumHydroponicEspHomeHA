@@ -7,6 +7,9 @@ Open source Modular ESP Home Assistant Sensor Board for Hydroponic, Gardening, A
 <br>PH Sensor ph-4502c
 <br>TDS Sensor Water Conductivity 
 <br>SSD1306 OLED Displau
+<br>ds18b20
+<br>
+<br>
 <br>
 
 Understanding & utilizing safe electrical practices is critical to your safety and safely completing this project.
