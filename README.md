@@ -1,7 +1,8 @@
 Open source Modular ESP Home Assistant Sensor Board for Hydroponic, Gardening, Acquarium, etc
 <br>
 
-<img width="1492" alt="image" src="https://github.com/user-attachments/assets/edde67db-4f0f-4b01-9764-667cb935df04" />
+<img width="1378" alt="image" src="https://github.com/user-attachments/assets/ce9b3a90-034c-4cac-9b47-82ac530b6d30" />
+
 
 
 <br>
