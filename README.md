@@ -64,7 +64,8 @@ https://how2electronics.com/aquarium-water-quality-monitor-with-tds-sensor-esp32
 
 
 
-
+https://dj.liveblog365.com/controlling-dc-motor-speed-and-direction-with-arduino-nano-and-l298n-h-bridge-motor-driver/?i=1
+<img width="1090" alt="image" src="https://github.com/user-attachments/assets/0527ca66-6f2d-44fc-9432-901fa04ede05" />
 
 
 
